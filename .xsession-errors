@@ -1,0 +1,110 @@
+/etc/gdm3/Xsession: Beginning session setup...
+localuser:github being added to access control list
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+GNOME_KEYRING_CONTROL=/home/github/.cache/keyring-4FtbIc
+GPG_AGENT_INFO=/home/github/.cache/keyring-4FtbIc/gpg:0:1
+GNOME_KEYRING_PID=5960
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+GNOME_KEYRING_CONTROL=/home/github/.cache/keyring-4FtbIc
+GPG_AGENT_INFO=/home/github/.cache/keyring-4FtbIc/gpg:0:1
+SSH_AUTH_SOCK=/home/github/.cache/keyring-4FtbIc/ssh
+GNOME_KEYRING_CONTROL=/home/github/.cache/keyring-4FtbIc
+GPG_AGENT_INFO=/home/github/.cache/keyring-4FtbIc/gpg:0:1
+SSH_AUTH_SOCK=/home/github/.cache/keyring-4FtbIc/ssh
+GNOME_KEYRING_CONTROL=/home/github/.cache/keyring-4FtbIc
+GPG_AGENT_INFO=/home/github/.cache/keyring-4FtbIc/gpg:0:1
+SSH_AUTH_SOCK=/home/github/.cache/keyring-4FtbIc/ssh
+
+(gnome-settings-daemon:5959): color-plugin-WARNING **: There is no colord server available
+
+(gnome-settings-daemon:5959): updates-plugin-WARNING **: state unknown: 0
+
+(gnome-settings-daemon:5959): PackageKit-WARNING **: failed to set proxy: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files
+
+(gnome-settings-daemon:5959): updates-plugin-WARNING **: failed to set proxies: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files
+
+(gnome-settings-daemon:5959): PackageKit-WARNING **: failed to set root: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files
+
+(gnome-settings-daemon:5959): updates-plugin-WARNING **: failed to set install root: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files
+Initializing tracker-miner-fs...
+Initializing tracker-store...
+Creating config directory:'/home/github/.config/tracker'
+Tracker-Message: Setting up monitor for changes to config file:'/home/github/.config/tracker/tracker-miner-fs.cfg'
+Could not open log:'/home/github/.local/share/tracker/tracker-miner-fs.log', No existe el fichero o el directorio
+All logging will go to stderr
+Starting log:
+  File:'/home/github/.local/share/tracker/tracker-miner-fs.log'
+Tracker-Message: Setting up monitor for changes to config file:'/home/github/.config/tracker/tracker-store.cfg'
+Tracker-Message: Setting up monitor for changes to config file:'/home/github/.config/tracker/tracker-store.cfg'
+Could not open log:'/home/github/.local/share/tracker/tracker-store.log', No existe el fichero o el directorio
+All logging will go to stderr
+Starting log:
+  File:'/home/github/.local/share/tracker/tracker-store.log'
+/usr/bin/start-pulseaudio-x11: 26: /usr/bin/start-pulseaudio-x11: /usr/bin/pactl: not found
+Failed to play sound: File or data not found
+Initializing nautilus-gdu extension
+** Message: applet now removed from the notification area
+
+** (nautilus:6025): WARNING **: Can not get _NET_WORKAREA
+
+** (nautilus:6025): WARNING **: Can not determine workarea, guessing at layout
+    JS ERROR: !!!   WARNING: 'anonymous function does not always return a value'
+    JS ERROR: !!!   WARNING: file '/usr/share/gnome-shell/extensions/CoverflowAltTab@palatis.blogspot.com/switcher.js' line 98 exception 0 number 157
+
+(gnome-shell:5996): Clutter-WARNING **: Attempting to remove actor of type 'ShellGenericContainer' from group of class 'StBoxLayout', but the container is not the actor's parent.
+
+(gnome-shell:5996): Clutter-WARNING **: Attempting to remove actor of type 'ShellGenericContainer' from group of class 'StBoxLayout', but the container is not the actor's parent.
+
+(gnome-shell:5996): Clutter-WARNING **: Attempting to add actor of type 'StButton' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(gnome-shell:5996): Clutter-WARNING **: Attempting to add actor of type 'StButton' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+
+(gnome-shell:5996): Clutter-WARNING **: Attempting to add actor of type 'StButton' to a container of type 'StBoxLayout', but the actor has already a parent of type 'StBoxLayout'.
+canaima-l10n-es-ve está disponible.
+canaima-l10n-es-ve está instalado.
+    JS ERROR: !!!   WARNING: 'assignment to undeclared variable updatePositions'
+    JS ERROR: !!!   WARNING: file '/usr/share/gnome-shell/extensions/windowoverlay-icons@sustmidown.centrum.cz/extension.js' line 125 exception 0 number 156
+
+(gnome-shell:5996): St-CRITICAL **: _st_create_shadow_material: assertion `src_texture != COGL_INVALID_HANDLE' failed
+
+(gnome-shell:5996): St-CRITICAL **: _st_create_shadow_material: assertion `src_texture != COGL_INVALID_HANDLE' failed
+
+(gnome-shell:5996): St-CRITICAL **: _st_create_shadow_material: assertion `src_texture != COGL_INVALID_HANDLE' failed
+
+(gnome-shell:5996): St-CRITICAL **: _st_create_shadow_material: assertion `src_texture != COGL_INVALID_HANDLE' failed
+** Message: Stopping applet secret agent because GNOME Shell appeared
+failed to create drawable
+
+(gnome-shell:5996): St-CRITICAL **: _st_create_shadow_material: assertion `src_texture != COGL_INVALID_HANDLE' failed
+** Message: applet now embedded in the notification area
+failed to create drawable
+('any', 'f28de3d5-cc12-4edb-8440-9576426f0d9d')
+Advertencia del gestor de ventanas: Log level 8: _shell_embedded_window_unrealize: assertion `SHELL_IS_EMBEDDED_WINDOW (window)' failed
+Advertencia del gestor de ventanas: Log level 8: _shell_embedded_window_unrealize: assertion `SHELL_IS_EMBEDDED_WINDOW (window)' failed
+Advertencia del gestor de ventanas: CurrentTime used to choose focus window; focus window may not be correct.
+Advertencia del gestor de ventanas: Got a request to focus 0x1600004 (Escritorio) with a timestamp of 0.  This shouldn't happen!
+
+(gnome-shell:5996): St-CRITICAL **: setup_framebuffers: assertion `height > 0' failed
+
+(gnome-shell:5996): St-CRITICAL **: setup_framebuffers: assertion `height > 0' failed
+
+(gnome-shell:5996): St-WARNING **: Did not find color property '-arrow-border-color'
+
+(gnome-terminal:6308): Vte-2.90-WARNING **: No se pueden convertir caracteres de UTF-8 a actual.
+Unhandled value type TerminalEncoding of pspec encoding
+
+(gnome-shell:5996): St-WARNING **: Did not find color property '-arrow-border-color'
+
+(gnome-shell:5996): St-CRITICAL **: setup_framebuffers: assertion `height > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(gnome-shell:5996): Gcr-WARNING **: the prepared data does not have the correct protocol prefix
+
+(gnome-shell:5996): Gcr-WARNING **: the prepared data does not have the correct protocol prefix
+[6987:7011:0521/142917:ERROR:native_backend_gnome_x.cc(518)] Keyring save failed: 
+
+(gnome-settings-daemon:5959): updates-plugin-WARNING **: failed to get time: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files
+
+(gnome-settings-daemon:5959): updates-plugin-WARNING **: failed to get time: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.PackageKit was not provided by any .service files

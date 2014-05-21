@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>descanso</name>
+    <filename>/usr/share/images/desktop-base/descanso.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#282829292828</pcolor>
+    <scolor>#000000000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>cascada</name>
+    <filename>/usr/share/images/desktop-base/cascada.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#282829292828</pcolor>
+    <scolor>#000000000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sin fondo de escritorio</name>
+    <filename>(none)</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#6666baba0000</pcolor>
+    <scolor>#6666baba0000</scolor>
+  </wallpaper>
+</wallpapers>
