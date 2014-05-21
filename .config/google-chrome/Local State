@@ -6,8 +6,8 @@
    "gl_vendor_string": "Tungsten Graphics, Inc",
    "gl_version_string": "2.1 Mesa 8.0.5",
    "hardware_acceleration_mode_previous": true,
-   "http_original_content_length": "3287070",
-   "http_received_content_length": "3287070",
+   "http_original_content_length": "3300953",
+   "http_received_content_length": "3300953",
    "local_state": {
       "multiple_profile_prefs_version": 7
    },
@@ -92,7 +92,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1400698797.518355,
+            "active_time": 1400699149.74726,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": false,
             "is_ephemeral": false,
@@ -180,10 +180,17 @@
          "execution_phase": 500,
          "exited_cleanly": false,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "0",
+         "last_timestamp_sec": "1400699233",
          "launch_count": 1,
          "launch_time_sec": "1400698633",
          "page_load_count": 0,
+         "plugin_stats2": [ {
+            "crashes": 0,
+            "instances": 0,
+            "launches": 1,
+            "loading_errors": 0,
+            "name": "Shockwave Flash"
+         } ],
          "renderer_crash_count": 0,
          "renderer_hang_count": 0,
          "session_end_completed": true,
